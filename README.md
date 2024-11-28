@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gürkan Mustafa ÇAKIR</h1>
-<h3 align="center">A full-stack developer from Turkey</h3>
+<h1 align="center">Hi 👋, I am Gürkan Mustafa Çakır</h1>
+<h3 align="center">Senior Full stack developer | Team Lead</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurkancakir&label=Profile%20views&color=0e75b6&style=flat" alt="gurkancakir" /> </p>
 
